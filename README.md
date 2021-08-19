@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/adarshs002" target="blank"><img src="https://img.shields.io/twitter/follow/adarshs002?logo=twitter&style=for-the-badge" alt="adarshs002" /></a> </p>
 - 📫 How to reach me **adarshswaminath7@gmail.com**
 
-- ⚡ Fun fact **Love to code in Android Phone**
+- ⚡ Fun fact **Love to code in Phone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
