@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshswaminath" alt="adarshswaminath" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adarshs002" target="blank"><img src="https://img.shields.io/twitter/follow/adarshs002?logo=twitter&style=for-the-badge" alt="adarshs002" /></a> </p>
-- 📫 How to reach me **adarshswaminath7@gmail.com**
+- 📫 How to reach me <a href="mailto:adarshswaminath7@gmail.com">adarshswaminath7@gmail.com</a>
 
 - ⚡ Fun fact **Love to code in Phone**
 
