@@ -2,7 +2,7 @@
 <h3 align="center">Frond-end developer | Learner | Security Enthusiast | Student</h3>
 <p align="center">⚡ Eat 🍔 Sleep 😴 Code 💻 Repeat 🔁</p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif" align="center">
+<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshswaminath&label=Profile%20views&color=0e75b6&style=flat" alt="adarshswaminath" /> </p>
 
