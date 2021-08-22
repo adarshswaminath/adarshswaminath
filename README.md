@@ -23,7 +23,7 @@
 <a href="https://twitter.com/adarshs002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshs002" height="30" width="40" /></a>
 <a href="https://fb.com/adarsh.swaminath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsh.swaminath" height="30" width="40" /></a>
 <a href="https://instagram.com/adarshswaminath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshswaminath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarshswaminath7@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshswaminath7@gmail.com" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adarshswaminath7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshswaminath7@gmail.com" height="30" width="40" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif"/>
 
