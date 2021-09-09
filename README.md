@@ -2,9 +2,10 @@
 <h3 align="center">Frond-end developer | Learner | Security Enthusiast | Student</h3>
 <p align="center">⚡ Eat 🍔 Sleep 😴 Code 💻 Repeat 🔁</p>
 
-<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshswaminath&label=Profile%20views&color=0e75b6&style=flat" alt="adarshswaminath" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=adarshswaminath&label=Profile%20views&color=0e75b6&style=flat" alt="adarshswaminath" /> </p>
 <hr>
 <div align="center">
   <h3>Vibing to : 🎧</h3> 
@@ -38,5 +39,5 @@
 <hr>
 <p>
   <h3>You are offline</h3>
-<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif"/>
 </p>
