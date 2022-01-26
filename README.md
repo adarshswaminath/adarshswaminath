@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/adarsh2002.png" alt="TryHackMe">
   <br>
 <a href="https://twitter.com/adarshs002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshs002" height="30" width="40" /></a>
 <a href="https://fb.com/adarsh.swaminath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsh.swaminath" height="30" width="40" /></a>
