@@ -38,8 +38,15 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
   </div>
 </div>
 
+<!-- Mission Logs: Coding Adventures and Blockchain Explorations -->
+## 🌌 Coding the Cosmos: A Journey Through Digital Galaxies and Decentralized Realms
+
+<!-- Writeups -->
+- [Foundry Solidity Smart Contract Starter: Create, Test, and Deploy](https://coinsbench.com/solidity-smartcontract-starter-create-test-and-deploy-with-foundry-1a0bc8f4f916)
+- [Solidity Gas Optimization Tips: Fueling Smart Contracts](https://medium.com/coinsbench/solidity-gas-optimization-tips-52e62d4ce57d)
+
 <!-- Your GitHub Stats and Streak -->
-## 🌌 GitHub Stats & Streak of Galactic Brilliance
+### GitHub Stats & Streak of Galactic Brilliance
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adarshswaminath&theme=dark&hide_border=true" alt="GitHub Streak" style="flex: 1; max-width: 45%;">
