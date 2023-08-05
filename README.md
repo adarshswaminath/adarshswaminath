@@ -13,9 +13,15 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 - 🚀 Frontend Wizard: Commanding the art of crafting captivating and responsive user interfaces.
 - 💻 Blockchain Voyager: Embarking on blockchain adventures to unlock new dimensions of decentralization.
 
+<!-- Technologies I Pilot -->
 ## 🛰️ Technologies I Pilot
+
+[![front-end](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs,python,solidity,bash,flask)](https://github.com/adarshswamianth) <br/>
+[![tools](https://skillicons.dev/icons?i=vscode,git,github,ipfs,linux,netlify,vercel,vite)](https://github.com/adarshswamianth)
+
+<!--
 <div style="display: flex; align-items: center; justify-content: center;">
-  <!-- Frontend -->
+
   <div style="display: flex; align-items: center; flex-wrap: wrap; margin-right: 2rem;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="HTML5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="52" alt="CSS3 logo" />
@@ -24,7 +30,7 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="ReactJS logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="Next.js logo" />
   </div>
-  <!-- Blockchain -->
+
   <div style="display: flex; align-items: center; flex-wrap: wrap; margin-left: 2rem;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" width="52" alt="Solidity logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python logo"  />
@@ -36,7 +42,7 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="GitHub logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="Bash logo"/>
   </div>
-</div>
+</div> -->
 
 <!-- Mission Logs: Coding Adventures and Blockchain Explorations -->
 ## 🌌 Coding the Cosmos: A Journey Through Digital Galaxies and Decentralized Realms
