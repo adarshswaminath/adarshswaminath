@@ -19,30 +19,6 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 [![front-end](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs,python,solidity,bash,flask)](https://github.com/adarshswamianth) <br/>
 [![tools](https://skillicons.dev/icons?i=vscode,git,github,ipfs,linux,netlify,vercel,vite)](https://github.com/adarshswamianth)
 
-<!--
-<div style="display: flex; align-items: center; justify-content: center;">
-
-  <div style="display: flex; align-items: center; flex-wrap: wrap; margin-right: 2rem;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="HTML5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="52" alt="CSS3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="JavaScript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="Tailwind CSS logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="ReactJS logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="Next.js logo" />
-  </div>
-
-  <div style="display: flex; align-items: center; flex-wrap: wrap; margin-left: 2rem;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" width="52" alt="Solidity logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="Trello logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="VSCode logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="Ubuntu logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="Linux logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="GitHub logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="Bash logo"/>
-  </div>
-</div> -->
 
 <!-- Mission Logs: Coding Adventures and Blockchain Explorations -->
 ## 🌌 Coding the Cosmos: A Journey Through Digital Galaxies and Decentralized Realms
@@ -50,7 +26,7 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 <!-- Writeups -->
 - [Foundry Solidity Smart Contract Starter: Create, Test, and Deploy](https://coinsbench.com/solidity-smartcontract-starter-create-test-and-deploy-with-foundry-1a0bc8f4f916)
 - [Solidity Gas Optimization Tips: Fueling Smart Contracts](https://medium.com/coinsbench/solidity-gas-optimization-tips-52e62d4ce57d)
-
+- [The T3 Stack: A Simple, Modular, and Type-Safe Web Development Stack](https://medium.com/stackademic/the-t3-stack-a-simple-modular-and-type-safe-web-development-stack-9f191c47f17e)
 <!-- Your GitHub Stats and Streak -->
 ### GitHub Stats & Streak of Galactic Brilliance
 
