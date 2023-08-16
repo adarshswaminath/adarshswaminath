@@ -16,7 +16,7 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 <!-- Technologies I Pilot -->
 ## 🛰️ Technologies I Pilot
 
-[![front-end](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs,python,solidity,bash,flask)](https://github.com/adarshswamianth) <br/>
+[![front-end](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs,prisma,python,solidity,bash,flask)](https://github.com/adarshswamianth) <br/>
 [![tools](https://skillicons.dev/icons?i=vscode,git,github,ipfs,linux,netlify,vercel,vite)](https://github.com/adarshswamianth)
 
 
