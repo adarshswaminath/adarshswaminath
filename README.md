@@ -28,10 +28,9 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 - [Solidity Gas Optimization Tips: Fueling Smart Contracts](https://medium.com/coinsbench/solidity-gas-optimization-tips-52e62d4ce57d)
 - [The T3 Stack: A Simple, Modular, and Type-Safe Web Development Stack](https://medium.com/stackademic/the-t3-stack-a-simple-modular-and-type-safe-web-development-stack-9f191c47f17e)
 <!-- Your GitHub Stats and Streak -->
-### GitHub Stats & Streak of Galactic Brilliance
+### ✨ GitHub Stats
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adarshswaminath&theme=dark&hide_border=true" alt="GitHub Streak" style="flex: 1; max-width: 45%;">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshswaminath&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Adarsh's GitHub Stats" style="flex: 1; max-width: 50%;">
 </div>
 
