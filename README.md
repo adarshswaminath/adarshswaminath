@@ -30,6 +30,7 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 - [Foundry Solidity Smart Contract Starter: Create, Test, and Deploy](https://coinsbench.com/solidity-smartcontract-starter-create-test-and-deploy-with-foundry-1a0bc8f4f916)
 - [Solidity Gas Optimization Tips: Fueling Smart Contracts](https://medium.com/coinsbench/solidity-gas-optimization-tips-52e62d4ce57d)
 - [The T3 Stack: A Simple, Modular, and Type-Safe Web Development Stack](https://medium.com/stackademic/the-t3-stack-a-simple-modular-and-type-safe-web-development-stack-9f191c47f17e)
+- [Optimizing Time: Lessons Learned from a Simple HackerRank Problem](https://medium.com/@adarshswaminath7/optimizing-time-lessons-learned-from-a-simple-hackerrank-problem-8a25cfc55aee)
 <!-- Your GitHub Stats and Streak -->
 ### ✨ GitHub Stats
 
