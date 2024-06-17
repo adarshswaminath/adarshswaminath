@@ -46,10 +46,11 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 
 <!-- Your Social Media and Contact Info with Icons -->
 ## 🌟 Connect Across the Stars
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Swaminath-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshswaminath/) -->
-[![Twitter](https://img.shields.io/badge/Twitter-@adarshs002-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adarshs002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Swaminath-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshswaminath/)
+[![X (formerly Twitter)](https://img.shields.io/badge/Twitter-@adarshs002-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adarshs002)
 [![Personal Portfolio](https://img.shields.io/badge/Portfolio-adarshswaminath-orange?style=flat-square&logo=web&logoColor=white)](https://adarshswaminath.github.io/)
+
+
 - 📧 Email: adarshswaminath7@gmail.com
 
 <!-- Your Favorite Quote -->
