@@ -36,8 +36,8 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=adarshswaminath&theme=radical" alt="Adarsh's GitHub Stats" style="flex: 1; max-width: 50%;"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshswaminath&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile" alt="Github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshswaminath&theme=midnight-purple&hide_border=true" alt="Streaks"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshswaminath&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Github stats"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshswaminath&theme=midnight-purple&hide_border=true" alt="Streaks"/> -->
 </div>
 
 <!-- Your Top Languages -->
