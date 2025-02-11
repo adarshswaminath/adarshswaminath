@@ -31,6 +31,8 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 - [Solidity Gas Optimization Tips: Fueling Smart Contracts](https://medium.com/coinsbench/solidity-gas-optimization-tips-52e62d4ce57d)
 - [The T3 Stack: A Simple, Modular, and Type-Safe Web Development Stack](https://medium.com/stackademic/the-t3-stack-a-simple-modular-and-type-safe-web-development-stack-9f191c47f17e)
 - [Optimizing Time: Lessons Learned from a Simple HackerRank Problem](https://medium.com/@adarshswaminath7/optimizing-time-lessons-learned-from-a-simple-hackerrank-problem-8a25cfc55aee)
+- [Understanding the Bcrypt Caching Vulnerability in Username Authentication](https://medium.com/@adarshswaminath7/understanding-the-bcrypt-caching-vulnerability-in-username-authentication-0a168a79c120)
+- [Vestra DAO $500K Exploit: A Simple Breakdown](https://medium.com/coinsbench/vestra-dao-500k-exploit-a-simple-breakdown-4d9436856c17)
 <!-- Your GitHub Stats and Streak -->
 ### ✨ GitHub Stats
 
