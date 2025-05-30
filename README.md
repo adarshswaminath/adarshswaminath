@@ -12,6 +12,8 @@ I'm a fearless explorer of the digital universe, a code astronaut soaring throug
 
 - 🚀 Frontend Wizard: Commanding the art of crafting captivating and responsive user interfaces.
 - 💻 Blockchain Voyager: Embarking on blockchain adventures to unlock new dimensions of decentralization.
+- 🧑‍💻 Associate Frontend Developer at [Uproot Security](https://www.uprootsecurity.com/): Building user-centric interfaces with performance and polish.
+
 
   [![An image of @adarshswaminath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adarshswaminath)](https://holopin.io/@adarshswaminath)
 
